@@ -33,6 +33,12 @@
       <version>4.0.1</version>
       <scope>provided</scope>
     </dependency>
+<dependency>
+  <groupId>org.apache.maven.archetypes</groupId>
+  <artifactId>maven-archetype-webapp</artifactId>
+  <version>1.4</version>
+  <type>maven-archetype</type>
+</dependency>
 
   </dependencies>
 
